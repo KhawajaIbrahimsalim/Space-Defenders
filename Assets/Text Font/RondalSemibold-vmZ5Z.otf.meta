@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f93967cf6e4d65d428b74abde2714d8d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rondal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e069a5ae9c0f237469f46e4d7e2e034b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
